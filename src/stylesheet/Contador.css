@@ -1,0 +1,11 @@
+.Contador{
+    width: 25%;
+    height: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid white;
+    font-size: 160px;
+    margin-bottom: 1rem;
+}
